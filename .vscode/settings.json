@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "exception": "cpp",
+        "memory": "cpp",
+        "type_traits": "cpp",
+        "typeinfo": "cpp",
+        "xmemory": "cpp",
+        "xstring": "cpp",
+        "xtree": "cpp",
+        "vector": "cpp"
+    }
+}
